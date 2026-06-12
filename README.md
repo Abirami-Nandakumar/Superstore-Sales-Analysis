@@ -30,7 +30,7 @@ This interactive Tableau dashboard analyzes sales performance, profitability, re
 * West region generated the highest sales.
 * Technology was the most profitable category.
 * Sales showed overall growth from 2011 to 2014.
-* Phones and Chairs were among the top-performing products.
+
 
 ## Dashboard Preview
 
