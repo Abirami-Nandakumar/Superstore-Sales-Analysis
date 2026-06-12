@@ -16,7 +16,6 @@ This interactive Tableau dashboard analyzes sales performance, profitability, re
 * Monthly Sales Pattern
 * Sales by Region
 * Profit by Category
-* Top 10 Products by Sales
 * Profit vs Sales Relationship
 
 ### Tools Used
