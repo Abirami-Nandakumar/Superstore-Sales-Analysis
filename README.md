@@ -32,6 +32,10 @@ This interactive Tableau dashboard analyzes sales performance, profitability, re
 * Sales showed overall growth from 2011 to 2014.
 * Phones and Chairs were among the top-performing products.
 
+## Dashboard Preview
+
+![Sales & Profit Dashboard](dashboard-screenshot.png)
+
 ### Author
 
 Abirami N
