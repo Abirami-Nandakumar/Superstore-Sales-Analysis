@@ -1,16 +1,16 @@
-# Tableau-Sales-Profit-Dashboard
+# Tableau Sales & Profit Dashboard
 
 ## Live Dashboard
 
 View the interactive Tableau dashboard here:
 
-[Sales & Profit Performance Dashboard](https://public.tableau.com/app/profile/abirami.n1460/viz/Sales_Profit_Dashboard_twbx/SalesProfitPerformanceDashboard?publish=yes)
+🔗 [Sales & Profit Performance Dashboard](https://public.tableau.com/app/profile/abirami.n1460/viz/Sales_Profit_Dashboard_twbx/SalesProfitPerformanceDashboard?publish=yes&utm_source=chatgpt.com)
 
 ## Project Overview
 
-This interactive Tableau dashboard analyzes sales performance, profitability, regional trends, and top-performing products. It helps business stakeholders identify growth opportunities and make data-driven decisions.
+This project analyzes Superstore sales and profit data to identify business trends, regional performance, category profitability, and top-performing products. The dashboard helps stakeholders make data-driven decisions through interactive visualizations.
 
-### Dashboard Features
+## Dashboard Features
 
 * Sales Trend by Year
 * Monthly Sales Pattern
@@ -18,23 +18,30 @@ This interactive Tableau dashboard analyzes sales performance, profitability, re
 * Profit by Category
 * Profit vs Sales Relationship
 
-### Tools Used
+## Tools Used
 
+* Excel
 * Tableau Public
-* Data Visualization
+* Python (Pandas, Matplotlib, Dash)
 * Business Intelligence (BI)
 
-### Key Insights
+## Key Insights
 
 * West region generated the highest sales.
 * Technology was the most profitable category.
 * Sales showed overall growth from 2011 to 2014.
+* Regional performance varied significantly across the business.
+* A small number of products contributed a large share of total revenue.
 
+## Skills Demonstrated
+
+* Data Cleaning
+* Exploratory Data Analysis (EDA)
+* Data Visualization
+* Dashboard Development
+* Business Intelligence
+* Data Storytelling
+* SQL Analytics
 
 ## Dashboard Preview
 
-![Sales & Profit Dashboard](dashboard-screenshot.png)
-
-### Author
-
-Abirami N
