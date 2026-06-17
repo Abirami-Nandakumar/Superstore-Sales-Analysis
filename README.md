@@ -44,4 +44,4 @@ This project analyzes Superstore sales and profit data to identify business tren
 * SQL Analytics
 
 ## Dashboard Preview
-
+![Dashboard Preview](dashboard-screenshot.png)
